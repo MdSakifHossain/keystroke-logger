@@ -1,4 +1,4 @@
-#wanna change the apps name....?
+# wanna change the apps name....?
 
 you need to understand some things...
 actually 2 files...
@@ -54,7 +54,7 @@ steps:
         the apps name is changed "everywhere".
 
 
-#wanna change the app icon.....?
+# wanna change the app icon.....?
 
 then we are gonna use the "MT Manager" app.
 you need to change 5 image files.
