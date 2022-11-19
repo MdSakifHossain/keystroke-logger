@@ -8,6 +8,7 @@ actually 2 files...
 
 if u want to change the apps name from "Keystroke Logger" to whatever u desire.
 You need to go to the "AndroidManifest.xml" file and change its name....
+
 requirements:
     The "mt manager" app can modify the "xml" file but im "gorib"....
     so ....
@@ -18,6 +19,7 @@ requirements:
         it can also change the xml file but you have to login first... (for xml editing...)
         and im "gorib".
         so, im using apk editor pro app.
+
 steps:
     1. goto "APK Editor Pro" app.
     2. click on the "Keystroke Logger" app.
